@@ -8,13 +8,13 @@ Vedant Joshi
 
 Features:
 
-Classic 3x3 Tic Tac Toe board
+• Classic 3x3 Tic Tac Toe board
 
-Two-player mode (Player X vs Player O)
+• Two-player mode (Player X vs Player O)
 
-Interactive GUI with buttons and labels
+• Interactive GUI with buttons and labels
 
-Displays winner or draw after each game
+• Displays winner or draw after each game
 
 🚀 How to Run:
 

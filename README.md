@@ -14,7 +14,9 @@ Displays winner or draw after each game
 • Clone this repository:
 git clone https://github.com/zouix/TicTacToe-Game-Pr.git
 cd TicTacToe-Game-Pr
+
 • Compile the Java file:
 javac TicTacToe.java
+
 • Run the game:
 java TicTacToe
